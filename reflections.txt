@@ -1,0 +1,28 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+* What new skills have you learned?
+
+I learned to concentrate more and organize my work, I did not discover new tag because I already studied the html in books.
+
+* What has been easy?
+
+The mock-up was quite simple, adding image, paragraph.
+
+  * What has been difficult?
+  
+  For the strikethrough text I used the span tag with style, I hesitated a lot before submitting my assignment, I usually do it with a css sheet.
+I try to improve and this first work is genial! A bit hard but it happens if we think well.
+   
+ * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  
+  I searched on google for the strikethrough because I did not know how to do it, I came across the mozilla mdn page and I succeeded.
+   The search on google is the best friend of the web developer!
+   
+   ps: sorry english is not my maternal language
